@@ -4731,6 +4731,7 @@ a:hover,
 	display: flex;
 	justify-content: center;
 	font-size: 3rem;
+	text-align: center;
 }
 
 #footer {
